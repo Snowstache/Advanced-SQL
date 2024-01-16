@@ -7,6 +7,7 @@ Integrated with GitHub Codespaces, an instant development environment that offer
 
 Each query increases at various levels of difficulty, so you can save them for yourself and reinforce what your company already has. 
 
+Check out the ADV_SQL files in the Scripts folder.
 
 ### Editor
 
