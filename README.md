@@ -8,7 +8,7 @@ Integrated with GitHub Codespaces, an instant development environment that offer
 Each query increases at various levels of difficulty, so you can save them for yourself and reinforce what your company already has. 
 
 
-### Creator
+### Editor
 
 Julian Snow 
                             
