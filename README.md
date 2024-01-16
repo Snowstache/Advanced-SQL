@@ -18,4 +18,4 @@ Julian Snow
 
 Check out my other project repos on [Github Repositories](https://github.com/Snowstache?tab=repositories).
 
-[lil-thumbnail-url]: https://images.app.goo.gl/cwiN8SoPsXs3RY7J6
+[lil-thumbnail-url]: https://www.google.com/search?q=sql+logo&sca_esv=598932482&rlz=1C1CHBF_esMX1081MX1081&tbm=isch&sxsrf=ACQVn08h5-cMECNN7jyd4PX6WwcVVwla0g:1705444569668&source=lnms&sa=X&ved=2ahUKEwivjomO_OKDAxXIL0QIHVSyDu0Q_AUoAXoECAEQAw&biw=1920&bih=957&dpr=1#imgrc=xsGwvtbvrGYN9M
